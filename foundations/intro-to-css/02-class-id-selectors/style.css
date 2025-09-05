@@ -1,6 +1,6 @@
 .impares {
     background-color: rgb(223, 148, 148);
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana,"DejaVu Sans", sans-serif;
 }
 
 #num2 {
@@ -10,10 +10,9 @@
 
 #num4 {
     background-color: rgb(119, 224, 99);
-    font-size: 24px;
     font-weight: bold;
 }
 
-.tamanho {
+.ajustar-tamanho {
     font-size: 24px;
 }
